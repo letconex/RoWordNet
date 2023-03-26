@@ -1,3 +1,3 @@
-# transformersmt
-Flask APP for the Romanian Wordnet hosted on Heroku
+# Flask APP for the Romanian Wordnet
+Flask APP for the Romanian Wordnet
  
